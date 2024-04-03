@@ -10,6 +10,7 @@ namespace DoAn
     {
         /// <summary>
         /// The main entry point for the application.
+        /// jdkjaskdjaskdj
         /// </summary>
         [STAThread]
         static void Main()
