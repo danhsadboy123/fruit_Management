@@ -1,0 +1,17 @@
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\obj\Debug\DoAn.GiaoDienBanHang.resources
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\obj\Debug\DoAn.GiaoDienDoanhThu.resources
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\obj\Debug\DoAn.GiaoDienKhachHang.resources
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\obj\Debug\DoAn.GiaoDienQuanLyHangHoa.resources
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\obj\Debug\DoAn.GiaoDienQuanLyNhaCungCap.resources
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\obj\Debug\DoAn.GiaoDienQuanLyNhanVien.resources
+C:\Users\Danh\Desktop\0306221310_TranQuangDanh_BTTH03\Doan\DoAn\DoAn\obj\Debug\DoAn.QuanLy.resources
